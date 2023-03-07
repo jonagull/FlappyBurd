@@ -2,4 +2,4 @@
 
 Very basic mock of flappy bird, made using Unity.
 
-![CleanShot 2023-03-07 at 18 30 57](https://user-images.githubusercontent.com/59290906/223502066-6577f2d9-84bd-43b7-bc43-06dcffcf1dbc.png)
+![CleanShot 2023-03-07 at 18 33 01](https://user-images.githubusercontent.com/59290906/223502893-f821ee7a-034e-478f-a461-4b505eb077e6.gif)
